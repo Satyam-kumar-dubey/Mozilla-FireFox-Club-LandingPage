@@ -1,0 +1,107 @@
+.Fox{
+    height: 100vh;
+    width: 100%;
+    /* background-image: url("bg.avif");
+    background-size: cover; */
+    background-color: #BEBDBE;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+    color: #19181E;
+}
+.Fox > img{
+    height: 85%;
+    margin-top: 7vw;
+    
+}
+.some{
+    font-size: 10vw;
+    position: absolute;
+    left: .5vw;
+    letter-spacing: -.5vw;
+    font-weight: 800;
+    top: 1vw;
+}
+.thing{
+    font-size: 6vw;
+    position: absolute;
+    top: 9vw;
+    left: 3vw;
+    font-weight: 800;
+    letter-spacing: -.5vw;
+}
+.new{
+    font-size: 10vw;
+    position: absolute;
+    right: 1vw;
+    letter-spacing: -.5vw;
+    font-weight: 800;
+    bottom: 9vw;
+}
+.soon{
+    font-size: 6vw;
+    position: absolute;
+    bottom: 5vw;
+    right: 3.8vw;
+    font-weight: 800;
+    letter-spacing: -.5vw;
+}
+.eye{
+    position: absolute;
+    background-color: #fff;
+    top: 40%;
+    left: 39%;
+    height: 3.8vw;
+    width: 3vw;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* padding-left: 1vw; */
+
+
+}
+.eye2{
+    position: absolute;
+    background-color: #fff;
+    top: 40%;
+    left: 46.3%;
+    height: 3.8vw;
+    width: 3vw;
+    border-radius: 50%;
+    /* padding-left: 1vw; */
+}
+.line{
+    height: .01vw;
+    width: 50%;
+    background-color: #fff;
+    margin-top: 1vw;
+    
+}
+.line2{
+    height: .01vw;
+    width: 20%;
+    background-color: #fff;
+    margin-top: 2vw;
+    margin-left: 1vw;
+    
+}
+.motionEye{
+    position: absolute;
+    background-color: #212121;
+    top: 32%;
+    left: 39%;
+    height: 2.2vw;
+    width: 2.2vw;
+    border-radius: 50%;
+}
+.motionEye2{
+    position: absolute;
+    background-color: #212121;
+    top: 40%;
+    left: 55%;
+    height: 2.2vw;
+    width: 2.2vw;
+    border-radius: 50%;
+}

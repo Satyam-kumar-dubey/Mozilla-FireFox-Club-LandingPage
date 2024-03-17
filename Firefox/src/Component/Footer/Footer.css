@@ -1,0 +1,91 @@
+.foot{
+    height: 40vh;
+    width: 100%;
+    background-color: #004D43;
+    display: flex;
+  
+}
+.footmotion {
+    font-size: 15vw;
+    font-weight: 800;
+    letter-spacing: -0.3vw;
+    white-space: nowrap;
+}
+#secondfoot{
+    color: #BEBDBE;
+}
+
+.footersection{
+    height: 60vh;
+    width: 100%;
+    background-color: red;
+}
+.connect{
+    height: 52vh;
+    width: 100%;
+    background-color: #19181E;
+    display: flex;
+    justify-content: space-between;
+    color: #BEBDBE;
+}
+.link{
+    height: 100%;
+    width: 100%;
+    /* background-color: purple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4vw;
+    padding-left: 8vw;
+}
+.link > span {
+    font-size: 4vw;
+    font-weight: 800;
+    letter-spacing: -.1vw;
+}
+.icons{
+    display: flex;
+    gap: 5vw;
+    cursor: pointer;
+}
+.contact{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4vw;
+}
+.contact >span {
+    font-size: 4vw;
+    font-weight: 800;
+    letter-spacing: -.1vw;
+    text-align: center;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1vw;
+    
+    
+}
+.details > span{
+    font-size: 1.5vw;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.copyright{
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    background-color:#BEBDBE;
+    color: #19181E;
+    padding-top: 1vw;
+}
+.copyright > span{
+    font-size: 1.2vw;
+    font-weight: bold;
+    
+}

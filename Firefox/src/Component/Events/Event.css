@@ -1,0 +1,80 @@
+.event{
+    height: 100vh;
+    width: 100%;
+    background-color: #19181E;
+    border-radius: 1vw;
+    
+}
+.header{
+    height: 12vh;
+    width: 100%;
+    /* background-color: black; */
+    color:#212121;
+    font-family: Slabo_27px;
+    text-align: center;
+    font-size: 3vw;
+    font-weight: 600;
+    padding-top: 2vw;
+    color: #BEBDBE;
+}
+.straightline{
+    height: .05vw;
+    width: 100%;
+    background-color: #212121;
+}
+.cards{
+    height:85vh;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    gap: -2vw;
+
+}
+.eventimg{
+    height: 90%;
+    width: 28%;
+    /* background-color: rgb(209, 205, 205); */
+    display: flex;
+    justify-content: center;
+    padding-top: 3vw;
+    cursor: pointer;
+    border-radius: 2vw;
+}
+.eventimg2{
+    height: 90%;
+    width: 28%;
+    /* background-color:#3e3e3e; */
+    display: flex;
+    justify-content: center;
+    padding-top: 3vw;
+    cursor: pointer;
+    border-radius: 2vw;
+   
+}
+.eventimg2>img{
+    height: 90%;
+    width: 70%;
+    border-radius: 2vw;
+    box-shadow: .5vw .5vw .5vw  #BEBDBE ;
+}
+.eventimg2:hover{
+    rotate: 5deg;
+    
+ }
+.eventimg>img{
+    height: 90%;
+    width: 70%;
+    border-radius: 2vw;
+    box-shadow: .5vw .5vw .5vw #BEBDBE ;
+}
+.eventimg:hover{
+   rotate: 5deg;
+   
+   
+}
+.eventimg>img:hover{
+    box-shadow: .5vw .5vw .5vw  #a885de ;
+}
+.eventimg2>img:hover{
+    box-shadow: .5vw .5vw .5vw  #a885de ;
+} 

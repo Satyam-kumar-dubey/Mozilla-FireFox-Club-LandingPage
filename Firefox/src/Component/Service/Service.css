@@ -1,0 +1,147 @@
+.services{
+    height: 180vh;
+    width: 100%;
+    background-color:#BEBDBE;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: #19181E;
+}
+.line1{
+    height: 31%;
+    width: 100%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.line2nd{
+    height: 31%;
+    width: 100%;
+    /* background-color: orange; */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.line3{
+    height: 31%;
+    width: 100%;
+    /* background-color: skyblue; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-1{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-2{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-3{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-4{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-5{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-6{
+    height: 100%;
+    width: 30%;
+    margin-left: 1vw;
+    background-color: #fff;
+    border-radius: 1vw;
+    text-align: center;
+}
+.container-1 > h3{
+    font-size: 4vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-1 > span{
+    font-size: 1.5vw;
+    font-weight: 300;
+    
+}
+.container-2 > h3{
+    font-size: 3.5vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-2 > span{
+    font-size: 1.2vw;
+    font-weight: 300;
+    
+}
+.container-3 > h3{
+    font-size: 3.5vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-3 > span{
+    font-size: 1.2vw;
+    font-weight: 300;
+    
+}
+.container-4 > h3{
+    font-size: 3.5vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-4 > span{
+    font-size: 1.5vw;
+    font-weight: 300;
+    
+}
+.container-5 > h3{
+    font-size: 3.5vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-5 > span{
+    font-size: 1.5vw;
+    font-weight: 300;
+    padding: 1vw;
+    
+}
+.container-6> h3{
+    font-size: 3.5vw;
+    font-weight: 800;
+    letter-spacing: -.2vw;
+}
+.container-6> span{
+    font-size: 1.3vw;
+    font-weight: 300;
+    padding: 0vw 2vw 0vw 2vw;
+    
+}
+.bucket:hover {
+    background-color: #19181E;
+    color: #BEBDBE;
+    scale: 1.1;
+}

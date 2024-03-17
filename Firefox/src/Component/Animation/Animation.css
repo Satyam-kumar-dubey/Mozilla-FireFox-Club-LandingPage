@@ -1,0 +1,27 @@
+.Animation{
+    height: 40vh;
+    width: 100%;
+    background-color: #004D43;
+    /* font-family: NanumMyeongjo-Bold; */
+    border-radius: 1vw;
+    display: flex;
+    overflow: hidden;
+    white-space: nowrap;
+    gap: 1vw;
+    padding-bottom: 9vw;
+    color: #fff;
+    margin-top: 2vw;
+    
+}
+   
+
+.Animation >h1{
+    font-size: 12vw;
+    letter-spacing: -.9vw;
+    font-weight: 800;
+    font-family: Slabo_27px;
+    font-weight: bolder;
+}
+#second{
+    color: #19181E;
+}
