@@ -1,8 +1,15 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Club Landing Page 
 
-Currently, two official plugins are available:
+__This Animated Website is a Landing Page of the Mozilla FireFox Club of my College__
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This Project is assigned as a task by the club and I have created this webiste by using resources:
+
+__REACTJS__
+__FRAMER-MOTION__
+__LOCOMOTIVEJS__
+__GSAP__
+__REACT-ICONS__
+
+
+
